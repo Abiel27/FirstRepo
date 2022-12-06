@@ -1,0 +1,28 @@
+master2.txt
+
+abeld@LAPTOP-2C2TCB5G MINGW64 ~ (master)
+$ mkdir Git_Demo
+
+abeld@LAPTOP-2C2TCB5G MINGW64 ~ (master)
+$ cd Git_Demo/
+
+abeld@LAPTOP-2C2TCB5G MINGW64 ~/Git_Demo (master)
+$ mkdir firstRepo
+
+abeld@LAPTOP-2C2TCB5G MINGW64 ~/Git_Demo (master)
+$ cd FirstRepo
+
+abeld@LAPTOP-2C2TCB5G MINGW64 ~/Git_Demo/FirstRepo (master)
+$ pwd
+/c/Users/abeld/Git_Demo/FirstRepo
+
+abeld@LAPTOP-2C2TCB5G MINGW64 ~/Git_Demo/FirstRepo (master)
+$ git init
+Initialized empty Git repository in C:/Users/abeld/Git_Demo/FirstRepo/.git/
+
+abeld@LAPTOP-2C2TCB5G MINGW64 ~/Git_Demo/FirstRepo (master)
+$ touch master2.txt
+
+abeld@LAPTOP-2C2TCB5G MINGW64 ~/Git_Demo/FirstRepo (master)
+$ notepad master2.txt
+
